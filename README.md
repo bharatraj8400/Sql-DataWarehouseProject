@@ -73,7 +73,5 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm Bharat Lal,
-I have experience working on data warehouse projects, focusing on designing, building, and optimizing data pipelines for business insights. My work involves handling data integration, modeling, and reporting to support decision-making processes. On GitHub, I share projects that reflect my journey in managing structured data and creating efficient data warehouse solutions. I’m eager to explore new tools and technologies in the data domain and continuously enhance my understanding of enterprise data management.
-
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+Hi there! I'm Bharat Lal:-
+I have experience working on data warehouse projects, focusing on designing, building, and optimizing data pipelines for business insights. My work involves handling data integration, modeling, and reporting to support decision-making processes. On GitHub, I share projects that reflect my journey in managing structured data and creating efficient data warehouse solutions. I’m eager to explore new tools and technologies in the data domain and continuously enhance my understanding of enterprise data management:
