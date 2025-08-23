@@ -63,5 +63,12 @@ data-warehouse-project/
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
+
+
+** About Me **
+Hi there! I'm Bharat Lal,
+I have experience working on data warehouse projects, focusing on designing, building, and optimizing data pipelines for business insights. My work involves handling data integration, modeling, and reporting to support decision-making processes. On GitHub, I share projects that reflect my journey in managing structured data and creating efficient data warehouse solutions. I’m eager to explore new tools and technologies in the data domain and continuously enhance my understanding of enterprise data management.
+
+
 │
 ├── tests/                              # Test scripts and quality files
